@@ -1,0 +1,80 @@
+.list-item{
+    list-style-type:none;
+    border:1px solid  #b6c3ca;
+    border-radius:12px;
+    background:transparent;
+    display:flex;
+    align-items:center;
+    padding:10px;
+    width:20%;
+    margin:10px;
+}
+
+.amber {
+    background-color: #f59e0b;
+  }
+  
+  .blue {
+    background-color: #0b69ff;
+  }
+  
+  .orange {
+    background-color: #f97316;
+  }
+  
+  .emerald {
+    background-color: #10b981;
+  }
+  
+  .teal {
+    background-color: #14b8a6;
+  }
+  
+  .red {
+    background-color: #b91c1c;
+  }
+  
+  .light-blue {
+    background-color: #0ea5e9;
+  }
+
+  .logo{
+    border-radius:50%;
+    width:50px;
+    height:50px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    margin-right:10px;
+    color:#ffffff;
+    font-weight:bold;
+    font-size:22px;
+    padding:10px; 
+  
+  }
+
+  .delete-icon{
+    width:30px;
+    
+  }
+  .delete-btn{
+    border:none;
+    background:none;
+    outline:none;
+    margin-left:auto;
+  }
+  .password-details-container{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    
+  }
+  .input-text{
+    color:#f8fafc;
+    font-family:"Roboto";
+    font-size:14px;
+    margin:0px;
+    padding:4px;
+    
+    
+  }
